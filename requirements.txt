@@ -2,3 +2,4 @@ google-adk==1.30.0
 google-generativeai==0.8.6
 Litellm==1.83.7
 python-dotenv==1.0.1
+pyodbc

@@ -1,0 +1,7 @@
+pyaudio
+webrtcvad
+faster-whisper
+requests
+RealtimeTTS
+numpy
+vosk
